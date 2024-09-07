@@ -1,6 +1,9 @@
 
 link -- https://ai-verse-tau.vercel.app/
 
+
+
+
 Ai-verse
 Ai-verse is a powerful AI-driven platform inspired by Google's Gemini. It replicates the advanced capabilities of Gemini, providing a seamless user experience through state-of-the-art AI models. This project brings the potential of Gemini into an open-source environment, making it accessible for developers and AI enthusiasts to explore and expand upon.
 
